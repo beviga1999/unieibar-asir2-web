@@ -1,4 +1,3 @@
-<?php 
-$cars = array("Volvo","BMW","Toyota");
-var_dump($cars);
+<?php
+echo strlen("Hello world!"); // outputs 12
 ?>
