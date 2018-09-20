@@ -1,4 +1,4 @@
-<?php
-$txt = "Hello world!";
-$x = 5;
-$y = 10.5;
+<?php 
+$cars = array("Volvo","BMW","Toyota");
+var_dump($cars);
+?>
