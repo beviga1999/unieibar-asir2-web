@@ -23,7 +23,7 @@ if ($semana == 1){
         echo "Tenemos Aplicaciones web(La best asignaturia evering)";
     }
     if ($hora >= 14 ){
-        echo "En mi puta casa";
+        echo "En mi casa";
     }
 }
 
@@ -47,7 +47,7 @@ if ($semana == 2){
         echo "Tenemos Base de datos";
     }
     if ($hora >= 14 ){
-        echo "En mi puta casa";
+        echo "En mi casa";
     }
 }
 if ($semana == 3){
@@ -70,7 +70,7 @@ if ($semana == 3){
         echo "Tenemos EIE";
     }
     if ($hora >= 14 ){
-        echo "En mi puta casa";
+        echo "En mi casa";
     }
 }
 if ($semana == 4){
@@ -93,7 +93,7 @@ if ($semana == 4){
         echo "Tenemos Aplicaciones web(La best asignaturia evering)";
     }
     if ($hora >= 14 ){
-        echo "En mi puta casa";
+        echo "En mi casa";
     }
 }
 if ($semana == 5){
@@ -116,19 +116,19 @@ if ($semana == 5){
         echo "Tenemos Ingles :v";
     }
     if ($hora >= 14 ){
-        echo "En mi puta casa";
+        echo "En mi casa";
     }
 }
 if ($semana == 6){
     if ($hora > 8){
-        echo "MI PUTO FINDE";
+        echo "MI FINDE";
     }
     
     }
 
     if ($semana == 7){
     if ($hora > 8){
-        echo "MI PUTO FINDE";
+        echo "MI FINDE";
     }
     
     }
