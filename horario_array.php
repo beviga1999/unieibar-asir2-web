@@ -2,7 +2,7 @@
 
 $dia = date("N");
 
-$hora = date("H")
+$hora = date("G");
 
 $horario = array ( 
     array("Base de datos", "EIE", "Sistemas", "Sistemas", "Web", "Web"), //Lunes
@@ -11,3 +11,5 @@ $horario = array (
     array("Redes", "Redes","Sistemas", "Sistemas", "Web", "Web"), //Jueves
     array("Seguridad", "Seguridad", "Redes", "Redes", "Ingles", "Ingles"), //Viernes
 );
+
+echo $horario[$dia-1][$hora-8];
