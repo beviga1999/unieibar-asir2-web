@@ -17,7 +17,7 @@ $user = $_POST["user"];
 $password = $_POST["password"];
 //echo $user;
 // update user
-$query = "UPDATE usuarios SET password = '$password' WHERE name = '$user'";
+$query = "UPDATE usuarios SET password = '$password' WHERE user = '$user'";
 //echo $query;
 $result = mysqli_query($conn, $query);
 header('Location: '."login2.php");
